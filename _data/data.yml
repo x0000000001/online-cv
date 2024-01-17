@@ -17,7 +17,7 @@ sidebar:
     phone: +1 438 365 6953
     timezone: Montréal (UTC -5)
     citizenship: French
-    website: https://github.com/x0000000001 #do not add http://
+    website: #do not add http://
     linkedin: antoine-toussaint-623379252
     xing:
     github: x0000000001
@@ -37,10 +37,10 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional, IELTS 8
+          level: Professional - IELTS 8
 
         - idiom: German
-          level: Beginner (Goethe B2), 2,5 months exchange in Aschaffenburg (Germany) in 2014.
+          level: Beginner - Goethe B2 - 2,5 months exchange in Aschaffenburg (Germany) in 2014
 
     interests:
       title: Interests
@@ -78,11 +78,11 @@ education:
           focus there is to specialize in Computer Science by
           reinforcing my technical skills and understanding of this field.
           Some of the courses I've followed there :
-              - Parallel computing systems (OpenMP, OpenCL, ...)
-              - Data mining
-              - Metaheuristics applied to Computer Science
-              - Smart agents for video games
-              - Natural Language Processing (NLP)
+            - Parallel computing systems (OpenMP, OpenCL, ...)
+            - Data mining
+            - Metaheuristics applied to Computer Science
+            - Smart agents for video games
+            - Natural Language Processing (NLP)
       - degree: Engineering Degree
         university: Ecole Nationale Supérieure des Mines de Nancy - Nancy, France
         time: 2021 - Present
@@ -90,12 +90,12 @@ education:
           The [Ecole des Mines](https://mines-nancy.univ-lorraine.fr/en/) provided me with a general engineering background,
           during the first year of study, and helped me specialize in computer 
           science during my second year there. Some of the courses I've followed there :
-              - Statistical physics
-              - Management control
-              - Advanced english class
-              - Basic compiler implementation
-              - Web project
-              - Opening on art and culture in the engineering context
+            - Statistical physics
+            - Management control
+            - Advanced english class
+            - Basic compiler implementation
+            - Web project
+            - Opening on art and culture in the engineering context
       - degree: Preparation Class for Engineering School, Mathematics and Physics.
         university: CPGE Champollion - Grenoble, France
         time: 2019 - 2021
@@ -106,10 +106,11 @@ education:
           and heavy work load of theses courses brought me :
             - Organization, self-management
             - Modesty towards Science
-      - degree: Baccalaureat SSI - French equivalent of A level in Mathematics, Physics and Engineering Sciences
+      - degree: Baccalaureat SSI
         university: Lycée Pierre Termier - Grenoble, France
         time: 2016 - 2019
         details: |
+          French equivalent of A level in Mathematics, Physics and Engineering Sciences.
             - Congratulations of the jury
 
 experiences:
@@ -189,7 +190,7 @@ skills:
         level: 90%
 
       - name: Unix environment
-        level: 85%
+        level: 90%
 
       - name: Rust
         level: 80%
@@ -198,7 +199,4 @@ skills:
         level: 75%
 
       - name: Java
-        level: 65%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+        level: 75%
