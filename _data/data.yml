@@ -60,12 +60,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently finishing my engineering studies in Canada, 
+      I am a passionate computer engineering student, 
+      enthusiastic about anything related to low-level and algorithmics.
+      I am looking for an end of studies internship in France,
+      preferably Lyon, but stay open to any opportunity.
 education:
     title: Education
     info:
@@ -87,7 +86,7 @@ education:
         university: Ecole Nationale Supérieure des Mines de Nancy - Nancy, France
         time: 2021 - Present
         details: |
-          The [Ecole des Mines](https://mines-nancy.univ-lorraine.fr/en/) provided me with a general engineering background,
+          The [Ecole des Mines](https://mines-nancy.univ-lorraine.fr/en/) provided me a general engineering background,
           during the first year of study, and helped me specialize in computer 
           science during my second year there. Some of the courses I've followed there :
             - Statistical physics
@@ -126,7 +125,7 @@ experiences:
         company: LORIA - Nancy, France
         details: |
           Research project one day a week in a [computer science laboratory](https://www.loria.fr/en/) :
-          verification of semantics of a cryptographic-oriented language 
+          verification of the semantics of assembly instructions in a cryptographic-oriented language 
           ([Jasmin](https://github.com/jasmin-lang/jasmin)) in OCaml.
       - role: Internship as operator
         time: October 2022 - February 2022
