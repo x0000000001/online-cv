@@ -3,137 +3,141 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Antoine Toussaint
-    tagline: Computer Science Engineer Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Antoine Toussaint
+  tagline: Full-Stack Developer
+  avatar: AntoineT.webp #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: antoine.toussaint2002@gmail.com
-    phone: +1 438 365 6953
-    timezone: Montréal (UTC -5)
-    citizenship: French
-    website: #do not add http://
-    linkedin: antoine-toussaint-623379252
-    xing:
-    github: x0000000001
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+  # Sidebar links
+  email: antoine.toussaint2002@gmail.com
+  phone: +1 438 365 6953
+  timezone: Nantes, France (UTC +1)
+  citizenship: French
+  website: #do not add http://
+  linkedin: antoine-toussaint-623379252
+  xing:
+  github: x0000000001
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf:
 
-    languages:
-      title: Languages
-      info:
-        - idiom: French
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: French
+        level: Native
 
-        - idiom: English
-          level: Professional - IELTS 8
+      - idiom: English
+        level: Professional - IELTS 8
 
-        - idiom: German
-          level: Beginner - Goethe B2 - 2,5 months exchange in Aschaffenburg (Germany) in 2014
+      - idiom: German
+        level: Beginner - Goethe B2 - 2,5 months exchange in Aschaffenburg (Germany) in 2014
 
-    interests:
-      title: Interests
-      info:
-        - item: Running (ultratrail, marathons)
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Running (ultratrail, marathons)
+        link:
 
-        - item: School mentoring
-          link:
+      - item: School mentoring
+        link:
 
-        - item: Judo (black belt)
-          link:
+      - item: Judo (black belt)
+        link:
 
-        - item: Saxophone (10 years)
-          link:
+      - item: Saxophone (10 years)
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Currently finishing my engineering studies in Canada, 
-      I am a passionate computer engineering student, 
-      enthusiastic about anything related to low-level and algorithmics.
-      I am looking for an end of studies internship in France,
-      preferably Lyon, but stay open to any opportunity.
+  title: Career Profile
+  summary: |
+    Full-stack developer with a passion for building robust and efficient applications.
+    I have experience working on multiple projects, including some with industrial applications.
+    I enjoy working across the entire stack, from frontend interfaces to backend services and infrastructure.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: Polytechnique Montréal - Montréal, Canada
-        time: 2023 - Present
-        details: |
-          I am currently finishing my engineering studies as a 
-          double diploma student in [Polytechnique Montréal](https://www.polymtl.ca/en). My
-          focus there is to specialize in Computer Science by
-          reinforcing my technical skills and understanding of this field.
-          Some of the courses I've followed there :
-            - Parallel computing systems (OpenMP, OpenCL, ...)
-            - Data mining
-            - Metaheuristics applied to Computer Science
-            - Smart agents for video games
-            - Natural Language Processing (NLP)
-      - degree: Engineering Degree
-        university: Ecole Nationale Supérieure des Mines de Nancy - Nancy, France
-        time: 2021 - Present
-        details: |
-          The [Ecole des Mines](https://mines-nancy.univ-lorraine.fr/en/) provided me a general engineering background,
-          during the first year of study, and helped me specialize in computer 
-          science during my second year there. Some of the courses I've followed there :
-            - Statistical physics
-            - Management control
-            - Advanced english class
-            - Basic compiler implementation
-            - Web project
-            - Opening on art and culture in the engineering context
-      - degree: Preparation Class for Engineering School, Mathematics and Physics.
-        university: CPGE Champollion - Grenoble, France
-        time: 2019 - 2021
-        details: |
-          The [CPGE Champollion](https://lycee-champollion.fr/spip.php?rubrique334) cycle in MP helped me
-          get the basics of Mathematics and Physics,
-          to prepare me for higher studies. The high expectations
-          and heavy work load of theses courses brought me :
-            - Organization, self-management
-            - Modesty towards Science
-      - degree: Baccalaureat SSI
-        university: Lycée Pierre Termier - Grenoble, France
-        time: 2016 - 2019
-        details: |
-          French equivalent of A level in Mathematics, Physics and Engineering Sciences.
-            - Congratulations of the jury
+  title: Education
+  info:
+    - degree: MSc in Computer Science
+      university: Polytechnique Montréal - Montréal, Canada
+      time: 2023 - 2024
+      details: |
+        I completed my engineering studies as a 
+        double diploma student in [Polytechnique Montréal](https://www.polymtl.ca/en). My
+        focus there was to specialize in Computer Science by
+        reinforcing my technical skills and understanding of this field.
+        Some of the courses I've followed there :
+          - Parallel computing systems (OpenMP, OpenCL, ...)
+          - Data mining
+          - Metaheuristics applied to Computer Science
+          - Smart agents for video games
+          - Natural Language Processing (NLP)
+    - degree: Engineering Degree
+      university: Ecole Nationale Supérieure des Mines de Nancy - Nancy, France
+      time: 2021 - 2024
+      details: |
+        The [Ecole des Mines](https://mines-nancy.univ-lorraine.fr/en/) provided me a general engineering background,
+        during the first year of study, and helped me specialize in computer 
+        science during my second year there. Some of the courses I've followed there :
+          - Statistical physics
+          - Management control
+          - Advanced english class
+          - Basic compiler implementation
+          - Web project
+          - Opening on art and culture in the engineering context
+    - degree: Preparation Class for Engineering School, Mathematics and Physics.
+      university: CPGE Champollion - Grenoble, France
+      time: 2019 - 2021
+      details: |
+        The [CPGE Champollion](https://lycee-champollion.fr/spip.php?rubrique334) cycle in MP helped me
+        get the basics of Mathematics and Physics,
+        to prepare me for higher studies. The high expectations
+        and heavy work load of theses courses brought me :
+          - Organization, self-management
+          - Modesty towards Science
+    - degree: Baccalaureat SSI
+      university: Lycée Pierre Termier - Grenoble, France
+      time: 2016 - 2019
+      details: |
+        French equivalent of A level in Mathematics, Physics and Engineering Sciences.
+          - Congratulations of the jury
 
 experiences:
-    title: Experiences
-    info:
-      - role: Advent Of Code
-        time: 2022 - Present
-        company:
-        details: |
-          Completed challenges of all [Advent of code](https://adventofcode.com/) years.
-      - role: Research in low-level programming
-        time: October 2022 - June 2023
-        company: LORIA - Nancy, France
-        details: |
-          Research project one day a week in a [computer science laboratory](https://www.loria.fr/en/) :
-          verification of the semantics of assembly instructions in a cryptographic-oriented language 
-          ([Jasmin](https://github.com/jasmin-lang/jasmin)) in OCaml.
-      - role: Internship as operator
-        time: October 2022 - February 2022
-        company: Winoa - Le Cheylas, France
-        details: |
-          I worked in 3x8 hours shifts in the packaging line of a [steel shots factory](https://www.winoa.com/). 
-          This internship gave me an overview of the work 
-          in factories and the life of operators.
+  title: Experiences
+  info:
+    - role: Full-Stack Developer
+      time: 2024 - Present
+      company: Galadrim - Nantes, France
+      details: |
+        Working as a full-stack developer on multiple projects, including some with industrial applications.
+        Technologies used: React, NestJS, Django, Django-Celery, AWS with Terraform.
+    - role: Advent Of Code
+      time: 2022 - Present
+      company:
+      details: |
+        Completed challenges of all [Advent of code](https://adventofcode.com/) years.
+    - role: Research in low-level programming
+      time: October 2022 - June 2023
+      company: LORIA - Nancy, France
+      details: |
+        Research project one day a week in a [computer science laboratory](https://www.loria.fr/en/) :
+        verification of the semantics of assembly instructions in a cryptographic-oriented language 
+        ([Jasmin](https://github.com/jasmin-lang/jasmin)) in OCaml.
+    - role: Internship as operator
+      time: October 2022 - February 2022
+      company: Winoa - Le Cheylas, France
+      details: |
+        I worked in 3x8 hours shifts in the packaging line of a [steel shots factory](https://www.winoa.com/). 
+        This internship gave me an overview of the work 
+        in factories and the life of operators.
 
 # certifications:
 #      title: Certifications
@@ -146,7 +150,7 @@ experiences:
 #          credentialurl: www.google.com
 #          credentialname: Google
 #          details: |
-#            Details about cert. 
+#            Details about cert.
 
 # projects:
 #    title: Projects
@@ -179,23 +183,27 @@ experiences:
 #        conference: Addison-Wesley, 1968
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 98%
+  toolset:
+    - name: Python
 
-      - name: C/C++
-        level: 90%
+    - name: React
 
-      - name: Unix environment
-        level: 90%
+    - name: NestJS
 
-      - name: Rust
-        level: 80%
+    - name: Django
 
-      - name: Web (JavaScript/HTML5/CSS)
-        level: 75%
+    - name: Django-Celery
 
-      - name: Java
-        level: 75%
+    - name: AWS / Terraform
+
+    - name: C/C++
+
+    - name: Unix environment
+
+    - name: Rust
+
+    - name: Web (Typescript/HTML/TailwindCSS)
+
+    - name: Java
