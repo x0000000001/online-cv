@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: antoine.toussaint2002@gmail.com
-  phone: +1 438 365 6953
+  phone: +33 7 67 32 09 04
   timezone: Nantes, France (UTC +1)
   citizenship: French
   website: #do not add http://
@@ -118,12 +118,29 @@ experiences:
       company: Galadrim - Nantes, France
       details: |
         Working as a full-stack developer on multiple projects, including some with industrial applications.
-        Technologies used: React, NestJS, Django, Django-Celery, AWS with Terraform.
-    - role: Advent Of Code
-      time: 2022 - Present
-      company:
-      details: |
-        Completed challenges of all [Advent of code](https://adventofcode.com/) years.
+
+        **Projects:**
+
+        **CIFMD** - French semi-public organization that grants dangerous materials transportation certifications.
+        Developed a live online test platform for candidates with a visualization dashboard for administrators.
+
+        *Technologies:* React, WebSockets, NestJS, BullMQ, Stripe
+
+        <br>
+
+        **Toltech Industries** - Industrial 3D CAO pieces command platform.
+        Implemented technical price calculation, 3D piece analysis, and cart creation features.
+        Very intricate and complicated business logic.
+
+        *Technologies:* React, WebSockets, NestJS, BullMQ, Stripe, Docker, Traefik
+
+        <br>
+
+        **Unista** - French manufacturer of industrial machines.
+        Developed the Human Machine Interface (HMI) to control the machines they produce,
+        involving hundreds of equipment (cameras, solenoid valves, vacuums, robotic arms, ...).
+
+        *Technologies:* React, WebSockets, Django, Django-Celery, Docker, Nginx
     - role: Research in low-level programming
       time: October 2022 - June 2023
       company: LORIA - Nancy, France
@@ -131,13 +148,6 @@ experiences:
         Research project one day a week in a [computer science laboratory](https://www.loria.fr/en/) :
         verification of the semantics of assembly instructions in a cryptographic-oriented language 
         ([Jasmin](https://github.com/jasmin-lang/jasmin)) in OCaml.
-    - role: Internship as operator
-      time: October 2022 - February 2022
-      company: Winoa - Le Cheylas, France
-      details: |
-        I worked in 3x8 hours shifts in the packaging line of a [steel shots factory](https://www.winoa.com/). 
-        This internship gave me an overview of the work 
-        in factories and the life of operators.
 
 # certifications:
 #      title: Certifications
